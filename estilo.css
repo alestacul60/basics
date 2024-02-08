@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(149, 168, 185);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.mia {
+    background-image: url('https://gcore-pic.xvideos-cdn.com/videos/thumbs169poster/42/6b/87/426b87d9ee6ebfdc88691501ffadbb2a/426b87d9ee6ebfdc88691501ffadbb2a.30.jpg');
+}
+
+.hola {
+    width: fit-content;
+    text-align: center;
+
+}
+
+h1 {
+    color: rgb(182, 97, 97);
+}
+
+.gus {
+    color: rgb(75, 133, 100);
+}
+
+.chimuelo {
+    color: rgb(4, 34, 43);
+    background-color: blueviolet;
+}
+
+.botoncito {
+    background-color: green;
+    border-radius: 3px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: larger;
+
+}
+
+.botoncito:hover {
+    background-color: blueviolet;
+    border-radius: 10px;
+    transform: rotate(45deg);
+    transition: 1s;
+}
